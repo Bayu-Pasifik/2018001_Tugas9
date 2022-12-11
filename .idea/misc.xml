@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Coding/Pertemuan3_Group_View/app/src/main/res/layout/activity_avanger.xml" value="0.1" />
+        <entry key="..\:/Coding/Pertemuan3_Group_View/app/src/main/res/layout/activity_guardian.xml" value="0.1" />
+        <entry key="..\:/Coding/Pertemuan3_Group_View/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Coding/Pertemuan3_Group_View/app/src/main/res/layout/activity_spider_man.xml" value="0.1" />
+        <entry key="..\:/Coding/Pertemuan4_ActionBar/app/src/main/res/layout/activity_main.xml" value="0.22056159420289856" />
+        <entry key="..\:/Coding/Pertemuan4_ActionBar/app/src/main/res/layout/fragment_genres.xml" value="0.22056159420289856" />
+        <entry key="..\:/Coding/Pertemuan4_ActionBar/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Coding/Pertemuan4_ActionBar/app/src/main/res/layout/fragment_settings.xml" value="0.22056159420289856" />
+        <entry key="..\:/Coding/Pertemuan4_ActionBar/app/src/main/res/layout/nav_header.xml" value="0.22056159420289856" />
+        <entry key="..\:/Coding/Pertemuan4_ActionBar/app/src/main/res/menu/draw_menu.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan5.5_Film_RecyclerView/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.267" />
+        <entry key="..\:/Coding/Pertemuan5.5_Film_RecyclerView/app/src/main/res/layout/activity_avanger.xml" value="0.11822916666666666" />
+        <entry key="..\:/Coding/Pertemuan5.5_Film_RecyclerView/app/src/main/res/layout/fragment_home.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan5.5_Film_RecyclerView/app/src/main/res/layout/item_film.xml" value="0.5997490589711418" />
+        <entry key="..\:/Coding/Pertemuan5.5_Film_RecyclerView/app/src/main/res/menu/draw_menu.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/layout/activity_alarm_fragment.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/layout/alarm_ft.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/layout/fragment_al.xml" value="0.25407608695652173" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/layout/fragment_alarm.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/layout/fragment_genres.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/layout/fragment_home.xml" value="0.16802536231884058" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/layout/nav_header.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan6_Alarm_Manager/app/src/main/res/menu/draw_menu.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan7_Workers/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Coding/Pertemuan7_Workers/app/src/main/res/layout/fragment_home.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan7_Workers/app/src/main/res/layout/nav_header.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan7_Workers/app/src/main/res/menu/draw_menu.xml" value="0.11018518518518519" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/layout/activity_display_data.xml" value="0.27076923076923076" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/layout/activity_my_database.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/layout/fragment_al.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/layout/fragment_database.xml" value="0.27076923076923076" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/layout/fragment_sqlite.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/layout/singledata.xml" value="0.27076923076923076" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/menu/draw_menu.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan8_Sqlite/app/src/main/res/menu/flow_menu.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan9_API/app/src/main/res/layout/fragment_a_p_i.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan9_API/app/src/main/res/layout/fragment_database.xml" value="0.11822916666666666" />
+        <entry key="..\:/Coding/Pertemuan9_API/app/src/main/res/layout/item_film.xml" value="0.26197916666666665" />
+        <entry key="..\:/Coding/Pertemuan9_API/app/src/main/res/menu/draw_menu.xml" value="0.26197916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

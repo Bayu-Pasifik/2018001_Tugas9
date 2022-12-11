@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+
+    <string name="description_film">Doctor Strange in the Multiverse of Madness is a 2022 American superhero film based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU).</string>
+    <string name="genre_strage">Action,Horror,Science Fiction, Adventure, Super Hero , Fantasy</string>
+    <string name="description_guardian">In 1988, following his mother\'s death, a young Peter Quill is abducted from Earth by a group of alien thieves and smugglers called the Ravagers led by Yondu Udonta. In 2014, on the abandoned planet Morag, Quill steals a mysterious Orb, but is attacked by forces of the fanatical Kree renegade Ronan the Accuser led by Korath. Although Quill escapes with the Orb, Yondu discovers his theft and issues a bounty for his capture, while Ronan sends the assassin Gamora after the Orb.</string>
+    <string name="description_avanger">Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.</string>
+    <string name="description_spiderman">Peter Parker\'s relaxing European vacation takes an unexpected turn when Nick Fury shows up in his hotel room to recruit him for a mission. The world is in danger as four massive elemental creatures -- each representing Earth, air, water and fire -- emerge from a hole torn in the universe. Parker soon finds himself donning the Spider-Man suit to help Fury and fellow superhero Mysterio stop the evil entities from wreaking havoc across the continent.</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="film">
+        <item>Avanger End Game</item>
+        <item>Guardian Of Galaxy</item>
+        <item>Spiderman Far From Home</item>
+        <item>Iron Man 2</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="genre">
+        <item>Action, Super Hero , Fantasy</item>
+        <item>Action,Adventure, Super Hero , Fantasy</item>
+        <item>Action,Science Fiction, Adventure, Super Hero , Fantasy</item>
+        <item>Action,Science Fiction, Adventure, Super Hero , Fantasy</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe/item></item>
+        <item>In 1988, following his mother\'s death, a young Peter Quill is abducted from Earth by a group of alien thieves and smugglers called the Ravagers led by Yondu Udonta. In 2014, on the abandoned planet Morag, Quill steals a mysterious Orb, but is attacked by forces of the fanatical Kree renegade Ronan the Accuser led by Korath. Although Quill escapes with the Orb, Yondu discovers his theft and issues a bounty for his capture, while Ronan sends the assassin Gamora after the Orb.</item>
+        <item>Peter Parker\'s relaxing European vacation takes an unexpected turn when Nick Fury shows up in his hotel room to recruit him for a mission. The world is in danger as four massive elemental creatures -- each representing Earth, air, water and fire -- emerge from a hole torn in the universe. Parker soon finds himself donning the Spider-Man suit to help Fury and fellow superhero Mysterio stop the evil entities from wreaking havoc across the continent.</item>
+        <item>A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism.</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
